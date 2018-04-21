@@ -5,6 +5,7 @@ Make 3 programs:
 2. Program 2. Parameter transfer via global variables. Type of procedure - distant.
 3. Program 3. Passing parameters through the stack. Type of procedure is near.
 
+Enter three 16-bit integers C, D, and E. Calculate the result of the arithmetic shift to the left of the value of the expression (C + D) * (E-6) by the number of bits equal to the number D.
 
 ### Code:
 
