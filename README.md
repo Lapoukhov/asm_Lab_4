@@ -1,7 +1,12 @@
-# asm_Lab_4
+## fasm Lab_4
+### Task:
+Make 3 programs:
+1. Program 1. Passing parameters through the register. Type of procedure - distant.
+2. Program 2. Parameter transfer via global variables. Type of procedure - distant.
+3. Program 3. Passing parameters through the stack. Type of procedure is near.
 
 
-###Code:
+### Code:
 
 ```
      org 100h
